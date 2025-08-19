@@ -33,6 +33,10 @@ Ce projet consiste à développer une application frontend pour un agriculteur, 
 ## 📷 Captures d’écran
 
 <img width="941" height="515" alt="Capture d’écran du 2025-08-19 16-28-02" src="https://github.com/user-attachments/assets/8049bf4c-6fe0-43d5-b084-e087825b1ecc" />
+<img width="941" height="515" alt="Capture d’écran du 2025-08-19 16-31-10" src="https://github.com/user-attachments/assets/8a645fed-6a0f-4027-85a8-746d9d3a0c0d" />
+<img width="941" height="515" alt="Capture d’écran du 2025-08-19 16-32-43" src="https://github.com/user-attachments/assets/31932442-400f-4619-ae2e-ea3f57230173" />
+
+
 
 ---
 
