@@ -4,7 +4,6 @@
 
 Ce projet consiste à développer une application frontend pour un agriculteur, afin de lui permettre de calculer rapidement la marge bénéficiaire entre ses coûts de production et son prix de vente.
 
----
 
 ##  Fonctionnalités
 
@@ -13,7 +12,6 @@ Ce projet consiste à développer une application frontend pour un agriculteur, 
 - Affichage dynamique d’un message selon le résultat (positif, nul ou négatif)
 - Aucune installation nécessaire, fonctionne directement dans le navigateur
 
----
 
 ## Réponses aux questions
 
@@ -28,7 +26,6 @@ Ce projet consiste à développer une application frontend pour un agriculteur, 
 - Si la marge est **nulle**, on indique un équilibre.
 - Si la marge est **négative**, on alerte sur une perte financière.
 
----
 
 ## 📷 Captures d’écran
 
@@ -41,11 +38,9 @@ Ce projet consiste à développer une application frontend pour un agriculteur, 
 7.  Début du style css(<img width="1595" height="947" alt="Capture d’écran du 2025-08-20 09-39-26" src="https://github.com/user-attachments/assets/9bbdcadd-a632-4c31-b2fb-d6df4f44c156" />)
 8.  capture-07-console-sans-erreur.png(<img width="1822" height="992" alt="Capture d’écran du 2025-08-20 09-55-32" src="https://github.com/user-attachments/assets/4a6ec245-15ec-4532-b565-2dd829893cc4" />)
 9.  ici il nous montre que le script estbien (<img width="1822" height="992" alt="Capture d’écran du 2025-08-20 09-57-36" src="https://github.com/user-attachments/assets/b4ef4bc0-ad18-4bec-a5cd-755115e55d88" />)
----
 
 ## 🚀 Lancer le projet
 
-1.voici le lien de depot (github https://github.com/NadjlaSefadine/Le-mini-calculateur/blob/main/README.md)
+1.voici le lien de depot github (https://github.com/NadjlaSefadine/Le-mini-calculateur/blob/main/README.md)
 2. Cloner le dépôt
 3. Ouvrir `index.html` dans le navigateur
-
