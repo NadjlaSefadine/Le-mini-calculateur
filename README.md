@@ -50,5 +50,6 @@ Ce projet consiste à développer une application frontend pour un agriculteur, 
 
 ## 🚀 Lancer le projet
 
-1. Cloner le dépôt
-2. Ouvrir `index.html` dans le navigateur
+1.voici le lien de depot (github https://github.com/NadjlaSefadine/Le-mini-calculateur/blob/main/README.md)
+2. Cloner le dépôt
+3. Ouvrir `index.html` dans le navigateur
