@@ -8,7 +8,7 @@ const formulaire = document.getElementById("margeForm");
 const resultatDiv = document.getElementById("resultat");
 
 // Gestion de l'événement submit
-formulaire.addEventListener("submit", function(e) {
+formulaire.addEventListener("submit", function (e) {
   e.preventDefault(); // Empêche le rechargement
 
   const couts = parseFloat(document.getElementById("couts").value);
@@ -23,12 +23,13 @@ formulaire.addEventListener("submit", function(e) {
 
   let message = "";
   if (marge > 0) {
-    message = `Votre marge est de <strong>${marge.toFixed(2)} €</strong>. Félicitations, vous êtes rentable !`;
+    message = `Votre marge est de <strong>${marge.toFixed(2)} (FCFA)</strong>. Félicitations, vous êtes rentable !`;
   } else if (marge === 0) {
-    message = ` Votre marge est de <strong>0 €</strong>. Vous êtes à l'équilibre.`;
+    message = ` Votre marge est de <strong>0 (FCFA)</strong>. Vous êtes à l'équilibre.`;
   } else {
-    message = `Votre marge est de <strong>${marge.toFixed(2)} €</strong>. Attention, vous êtes en perte.`;
+    message = `Votre marge est de <strong>${marge.toFixed(2)}(FCFA)</strong>. Attention, vous êtes en perte.`;
   }
 
   resultatDiv.innerHTML = `<p>${message}</p>`;
 });
+console.log("Le script est chargé !");
